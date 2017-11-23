@@ -1,4 +1,5 @@
-import React, { PropTypes } from 'react';
+import React from 'react';
+import PropTypes from 'prop-types';
 import { Path } from 'react-leaflet';
 import { curve } from './leaflet.curve';
 
