@@ -35,8 +35,9 @@
   "homepage": "https://github.com/Shadowman4205/react-leaflet-curve#readme",
   "peerDependencies": {
     "leaflet": "^1.0.2",
-    "react-leaflet": "^1.0.1",
-    "react": "^15.4.1"
+    "prop-types": "^15.6.0",
+    "react": "^15.4.1",
+    "react-leaflet": "^1.0.1"
   },
   "devDependencies": {
     "babel-cli": "^6.8.0",
@@ -50,6 +51,7 @@
     "eslint-plugin-react": "^6.4.1",
     "leaflet": "^1.0.2",
     "lodash.isequal": "^4.4.0",
+    "prop-types": "^15.6.0",
     "react": "^15.4.1",
     "react-dom": "^15.4.1",
     "react-leaflet": "^1.0.1",
